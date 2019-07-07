@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/layout_space_2dp"
+        android:background="@color/colorLayoutBackground">
+
+        <LinearLayout
+            android:id="@+id/ly_playlist"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?android:attr/selectableItemBackground"
+            android:padding="@dimen/layout_padding_15dp">
+
+
+            <ImageView
+                style="@style/CategoryStyleImage"
+                android:contentDescription="@string/category_playlist"
+                android:src="@drawable/ic_playlist_play" />
+
+            <TextView
+                style="@style/CategoryStyleText"
+                android:text="@string/category_playlist" />
+
+        </LinearLayout>
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/layout_space_2dp"
+        android:background="@color/colorLayoutBackground">
+
+        <LinearLayout
+            android:id="@+id/ly_albums"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?android:attr/selectableItemBackground"
+            android:padding="@dimen/layout_padding_15dp">
+
+
+            <ImageView
+                style="@style/CategoryStyleImage"
+                android:contentDescription="@string/category_albums"
+                android:src="@drawable/ic_album" />
+
+            <TextView
+                style="@style/CategoryStyleText"
+                android:text="@string/category_albums" />
+
+        </LinearLayout>
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/layout_space_2dp"
+        android:background="@color/colorLayoutBackground">
+
+        <LinearLayout
+            android:id="@+id/ly_songs"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?android:attr/selectableItemBackground"
+            android:padding="@dimen/layout_padding_15dp">
+
+
+            <ImageView
+                style="@style/CategoryStyleImage"
+                android:contentDescription="@string/category_songs"
+                android:src="@drawable/ic_music_note" />
+
+            <TextView
+                style="@style/CategoryStyleText"
+                android:text="@string/category_songs" />
+
+        </LinearLayout>
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/layout_space_2dp"
+        android:background="@color/colorLayoutBackground">
+
+        <LinearLayout
+            android:id="@+id/ly_music_online"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?android:attr/selectableItemBackground"
+            android:padding="@dimen/layout_padding_15dp">
+
+
+            <ImageView
+                style="@style/CategoryStyleImage"
+                android:contentDescription="@string/category_music_online"
+                android:src="@drawable/ic_cloud_done" />
+
+            <TextView
+                style="@style/CategoryStyleText"
+                android:text="@string/category_music_online" />
+
+        </LinearLayout>
+
+    </FrameLayout>
+
+
+</LinearLayout>

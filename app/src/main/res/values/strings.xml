@@ -1,0 +1,140 @@
+<resources>
+    <string name="app_name">Music Library</string>
+
+    <!-- Category name for playList [CHAR LIMIT=20] -->
+    <string name="category_playlist">PlayList</string>
+
+    <!-- Category name for Albums [CHAR LIMIT=20] -->
+    <string name="category_albums">Albums</string>
+
+    <!-- Category name for Songs [CHAR LIMIT=20] -->
+    <string name="category_songs">Songs</string>
+
+    <!-- Category name for Buy Music Online [CHAR LIMIT=20] -->
+    <string name="category_music_online">Music Online</string>
+
+    <!-- Now Playing Activity [CHAR LIMIT=20] -->
+    <string name="activity_now_playing">Now Playing</string>
+
+
+    <!-- PlayList Contents-->
+
+    <string name="playlist_last_added">Last added</string>
+    <string name="last_added_content">All Songs</string>
+
+    <string name="playlist_record">Recording</string>
+    <string name="record_content">Your Device</string>
+
+
+    <!-- Tamer Hosny albums -->
+    <string name="tamer_name">Tamer Hosny</string>
+    <string name="tamer_album_name">Romantic Music</string>
+
+    <string name="tamer_omry_ebtada_name">Omry Ebtada</string>
+    <string name="tamer_omry_ebtada_time">3:02</string>
+
+    <string name="tamer_hes_bsoak_name">Hes Bsoak</string>
+    <string name="tamer_hes_bsoak_time">3:15</string>
+
+    <string name="tamer_tman_ehtear_name">Tman Ehtear</string>
+    <string name="tamer_tman_ehtear_time">4:22</string>
+
+
+    <!-- Sherine albums -->
+    <string name="sherine_name">Sherine</string>
+    <string name="sherine_album_name">Sensory Music</string>
+
+    <string name="sherine_forsa_ahera_name">Forsa Ahera</string>
+    <string name="sherine_forsa_ahera_time">3:40</string>
+
+    <string name="sherine_mashair_name">Mashair</string>
+    <string name="sherine_mashair_time">3:00</string>
+
+    <string name="sherine_taira_men_elfarha_name">Taira Men Elfarha</string>
+    <string name="sherine_taira_men_elfarha_time">3:03</string>
+
+
+    <!-- Cimo albums -->
+    <string name="cimo_name">Cimo Fränkel</string>
+
+    <string name="cimo_never_give_up_name">Never Give Up</string>
+    <string name="cimo_never_give_up_time">3:35</string>
+
+    <string name="cimo_armin_van_buuren_name">Armin Van Buuren</string>
+    <string name="cimo_armin_van_buuren_time">3:24</string>
+
+
+    <!-- Other Songs -->
+    <string name="pimms_name">Pimms Brooke</string>
+
+    <string name="pimms_brighter_day_name">Brighter Day</string>
+    <string name="pimms_brighter_day_time">3:17</string>
+
+    <string name="delacey_name">Delacey</string>
+
+    <string name="delacey_dream_it_possible_name">Dream It Possible</string>
+    <string name="delacey_dream_it_possible_time">4:10</string>
+
+    <string name="unknown_name">UnKnown</string>
+    <string name="relax_album_name">Relax Music</string>
+
+    <string name="unknown_relax_name">Relax</string>
+    <string name="unknown_relax_time">3:45</string>
+
+
+    <!-- Other Albums -->
+    <string name="fazz_album_name">Fazz Music</string>
+    <string name="audios_album_name">Audios Music</string>
+    <string name="brand_album_name">Brand Music</string>
+
+
+    <!-- Some Music Online -->
+    <string name="amr_name">Amr Diab</string>
+
+    <string name="amr_kol_hayate_name">Kol Hayate</string>
+    <string name="amr_kol_hayate_time">3:10</string>
+
+    <string name="samo_zain_name">Samo Zain</string>
+
+    <string name="samo_zain_lo_omry_ergah_name">Lo Omry Ergah</string>
+    <string name="samo_zain_lo_omry_ergah_time">3:20</string>
+
+    <string name="nancy_name">Nancy Agram</string>
+
+    <string name="nancy_hassa_beek_name">Hassa Beek</string>
+    <string name="nancy_hassa_beek_time">3:00</string>
+
+    <string name="justin_name">Justin Bieber</string>
+
+    <string name="justin_one_time_name">One Time</string>
+    <string name="justin_one_time_time">4:50</string>
+
+    <!-- ========================== Now Playing Image Description ======================= -->
+
+    <string name="song_image_now_playing_desc">This is the cover of the song that you hear now.</string>
+    <string name="song_image_later_desc">This is the cover of the song you will hear later.</string>
+
+    <string name="ic_queue_music_desc">This button to return to the list of songs to chose another song.</string>
+
+    <string name="ic_play_music">This button to play the song.</string>
+    <string name="ic_skip_next_music">This button to skip next the song.</string>
+    <string name="ic_skip_previous_music">This button to skip previous the song.</string>
+    <string name="ic_shuffle_music">This button to shuffle the songs.</string>
+    <string name="ic_repeat_music">This button to repeat the song.</string>
+
+    <string name="song_wave_image">This image is to illustrate the song sound waves.</string>
+
+
+    <!-- ================ PlayList , Albums or Music Online Image Description =================== -->
+
+    <string name="album_image">This album cover image.</string>
+    <string name="ic_play_album">This button is to run album.</string>
+
+    <string name="buy_music_online">Buy Now</string>
+
+    <string name="audio_wave_image_desc">These audio waves will display only the currently played song.</string>
+
+
+
+
+</resources>

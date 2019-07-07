@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Height of each list item -->
+    <dimen name="list_item_height">88dp</dimen>
+
+    <!-- Height of each grid item -->
+    <dimen name="grid_item_height">200dp</dimen>
+
+
+    <dimen name="layout_padding_15dp">15dp</dimen>
+
+    <!-- Vertical and Horizontal spacing for grid view-->
+    <dimen name="layout_space_2dp">2dp</dimen>
+
+    <dimen name="layout_space_10dp">10dp</dimen>
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2e2f34</color>
+    <color name="colorPrimaryDark">#0b0c0f</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="colorLayoutBackground">#2f2828</color>
+
+    <color name="colorListViewBackground">#381b1b</color>
+    <color name="colorGridViewBackground">#160f0f</color>
+
+    <color name="colorArtistName">#e3e3e3</color>
+
+    <color name="colorBuyMusicOnline">#9f9203</color>
+
+
+</resources>
